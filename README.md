@@ -21,7 +21,7 @@ Sou desenvolvedor formado em **Informática para Internet** e **Análise e Desen
 - Testes de integração
 - Análise de riscos
 
-## 📂 Projetos Destacados
+## 📂 Projetos Destacados que Contribui
 
 ### 🌐 Sistemas Web
 - **https://caraguatatuba156.com.br/**: SSAD - Sistema de Solicitações e Acompanhamento de Demandas.
